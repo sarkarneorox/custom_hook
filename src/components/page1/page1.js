@@ -7,7 +7,7 @@ const Page1 = () => {
     keywords: ["keyword 1", "keyword 2"],
     ogTitle: "Page 1 og description",
     ogDescription: "this is page 1 og description",
-    ogImage: "https://imgs.search.brave.com/zgPF8V4DhX7UWUXmCGr0GFBd8h5nBubadd3xjnBNnXk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9k/ZW1vLWRpZ2l0YWwt/ZGV2aWNlXzIzLTIx/NDkyNDM5NTcuanBn/P3NpemU9NjI2JmV4/dD1qcGc",
+    ogImage: "https://imgs.search.brave.com/TsWvQkys0OAkTxcgCOijNpACwYU40lNDKVRSe2a-M4s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9wbGFj/aWQuYXBwL3N0b3Jh/Z2UvbWFya2V0aW5n/X2NhY2hlL3dlYnAv/YWRlODhhZWU1NDU1/NGFiOGQzZjdlMjg3/YmU4MDQ1Y2QvYXBp/LWltYWdlLndlYnA",
     ogUrl: "https://unsplash.com/s/photos/demo",
   })
   return (
